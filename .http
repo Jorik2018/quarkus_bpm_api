@@ -1,0 +1,11 @@
+GET http://38.250.177.7:7372/test
+
+###
+
+POST http://38.250.177.7:7372/
+Content-Type: application/json
+
+{
+  "username": "",
+  "password": ""
+}
